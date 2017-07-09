@@ -6,8 +6,10 @@ var expect = chai.expect;
 describe('assess()', function() {
     context('determine if a word is a palindrome', function() {
       it('returns true or false', function() {
-        var result = ('noon');
-        expect(result).to.equal(true);
+        var word = ('dog');
+        var reverse = ('god');
+        var result = (false);
+        expect(result).to.equal(false);
       });
     });
   });

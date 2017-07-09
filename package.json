@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@angular/cli": "^1.2.0",
     "chai": "^4.0.2",
     "mocha": "^3.4.2"
   },
