@@ -7,7 +7,7 @@ function greaterthan(a, b) {
   return false;
 }
 
-module.exports = greaterthan
+module.exports = greaterthan;
 
 
 
